@@ -1,4 +1,4 @@
-# Project
+
 To implement the Java microservice to communicate with the ChatGPT API and update the database, I suggest the following steps:
 
 Use Spring Boot for the microservice and set up a basic project structure with the required dependencies, including Maven, Swagger/OpenAPI, and Actuator.
